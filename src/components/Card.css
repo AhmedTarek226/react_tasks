@@ -1,0 +1,7 @@
+/* .card {
+    width: "18 rem" ;
+    height:"400px";
+} */
+.card img{
+    max-height:250px ;
+}
